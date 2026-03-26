@@ -1,0 +1,14 @@
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\bin\Debug\net10.0\Inheritanc & Polymorphism.exe
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\bin\Debug\net10.0\Inheritanc & Polymorphism.deps.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\bin\Debug\net10.0\Inheritanc & Polymorphism.runtimeconfig.json
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\bin\Debug\net10.0\Inheritanc & Polymorphism.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\bin\Debug\net10.0\Inheritanc & Polymorphism.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.AssemblyInfoInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.AssemblyInfo.cs
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\refint\Inheritanc & Polymorphism.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.pdb
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\Inheritanc & Polymorphism.genruntimeconfig.cache
+C:\Users\shivang.chauhan\Desktop\Dot Net\C#\C# Practicles\Practical - 3\Inheritanc & Polymorphism\Inheritanc & Polymorphism\obj\Debug\net10.0\ref\Inheritanc & Polymorphism.dll
